@@ -20,6 +20,7 @@ Projeto realizado na trilha <strong>ReactJS</strong> da Next Level Week#5 da [Ro
 git clone https://github.com/davidffa/Podcastr.git
 cd Podcastr
 yarn
+yarn server
 yarn dev
 ```
 
@@ -43,5 +44,6 @@ Project developed on <strong>ReactJS</strong> trail of Next Level Week#5 from [R
 git clone https://github.com/davidffa/Podcastr.git
 cd Podcastr
 yarn
+yarn server
 yarn dev
 ```
